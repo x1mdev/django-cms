@@ -1,6 +1,6 @@
 -f http://simple.crate.io/
 MarkupSafe==0.23
-Pygments==2.0.2
+Pygments==2.15.0
 sphinx
 sphinxcontrib-spelling
 pyenchant
